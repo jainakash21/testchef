@@ -1,0 +1,4 @@
+---
+username: kitchen
+ssh_key: "/home/oracle/chef-repo/cookbooks/test-kitchen/.kitchen/docker_id_rsa"
+last_error: Kitchen::ActionFailed

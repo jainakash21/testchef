@@ -1,0 +1,7 @@
+DEPENDENCIES
+  test-kitchen
+    path: .
+    metadata: true
+
+GRAPH
+  test-kitchen (0.1.0)
